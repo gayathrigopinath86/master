@@ -7,10 +7,12 @@ using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using HackathonNew.Interface;
 using HackathonNew.Model;
+using Microsoft.AspNetCore.Authorization;
 
 
 namespace HackathonNew.Controllers
 {
+    [Authorize]
     [Route("api/controller")]
     [ApiController]
     [Produces ("application/json")]

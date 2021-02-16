@@ -6114,11 +6114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ajai\\Desktop\\Honeywell\\APITest\\APITest.csproj",
+      "projectUniqueName": "C:\\Users\\Ajai\\Desktop\\New folder\\master\\APITest\\APITest.csproj",
       "projectName": "APITest",
-      "projectPath": "C:\\Users\\Ajai\\Desktop\\Honeywell\\APITest\\APITest.csproj",
+      "projectPath": "C:\\Users\\Ajai\\Desktop\\New folder\\master\\APITest\\APITest.csproj",
       "packagesPath": "C:\\Users\\Ajai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ajai\\Desktop\\Honeywell\\APITest\\obj\\",
+      "outputPath": "C:\\Users\\Ajai\\Desktop\\New folder\\master\\APITest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ajai\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6135,8 +6135,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ajai\\Desktop\\Honeywell\\HackathonNew\\HackathonNew.csproj": {
-              "projectPath": "C:\\Users\\Ajai\\Desktop\\Honeywell\\HackathonNew\\HackathonNew.csproj"
+            "C:\\Users\\Ajai\\Desktop\\New folder\\master\\HackathonNew\\HackathonNew.csproj": {
+              "projectPath": "C:\\Users\\Ajai\\Desktop\\New folder\\master\\HackathonNew\\HackathonNew.csproj"
             }
           }
         }
